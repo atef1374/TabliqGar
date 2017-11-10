@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 cd $HOME/TabLiqGar
-token="" --„Õ· ﬁ—«— êÌ—Ì  Êò‰
+token="368460048:AAE0SKsZ6g616EX4QtR0MeGWfCikzk3gcGE" --√£√ç√° √û√ë√á√ë ¬ê√≠√ë√≠ √ä√¶Àú√§
 function print_logo() {
 	echo -e "\033[38;5;600m"
 	echo -e "          CerNer Team"
